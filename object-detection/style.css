@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#head
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+background-color:aqua;
+font-family: 'Shadows Into Light', cursive;
+height:80pxpx
+}
+
+#detector{
+    font-size :40px;
+    font-family: 'Satisfy', cursive;
+    margin:15px;
+    background-color:rgb(190, 159, 245);
+   border-radius:10pxs
+}
+
+canvas{
+    box-shadow: 10px,10px,10px,black;
+    border-radius: 20px;
+}
